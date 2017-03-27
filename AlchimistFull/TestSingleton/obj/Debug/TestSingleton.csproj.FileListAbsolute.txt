@@ -1,0 +1,6 @@
+C:\Users\mikel\onedrive\documents\visual studio 2017\Projects\AlchimistFull\TestSingleton\obj\Debug\TestSingleton.csprojResolveAssemblyReference.cache
+C:\Users\mikel\onedrive\documents\visual studio 2017\Projects\AlchimistFull\TestSingleton\bin\Debug\TestSingleton.exe.config
+C:\Users\mikel\onedrive\documents\visual studio 2017\Projects\AlchimistFull\TestSingleton\bin\Debug\TestSingleton.exe
+C:\Users\mikel\onedrive\documents\visual studio 2017\Projects\AlchimistFull\TestSingleton\bin\Debug\TestSingleton.pdb
+C:\Users\mikel\onedrive\documents\visual studio 2017\Projects\AlchimistFull\TestSingleton\obj\Debug\TestSingleton.exe
+C:\Users\mikel\onedrive\documents\visual studio 2017\Projects\AlchimistFull\TestSingleton\obj\Debug\TestSingleton.pdb
